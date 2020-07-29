@@ -125,13 +125,13 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Aula do Professor",
+        "url": "https://www.youtube.com/watch?v=NY4aHc_WHD8"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Aula do Professor 2",
+          "url": "https://www.youtube.com/watch?v=4tr3EqD_kO4"
         },
         {
           "titulo": "Assassins Creed Valhalla",
