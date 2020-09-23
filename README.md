@@ -1,5 +1,8 @@
 ## Raflix
 
+Projeto de visualização de vídeos criado via React
+
+Link para viasulização: https://raflix-d9vzluu89.vercel.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
