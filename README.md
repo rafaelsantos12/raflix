@@ -42,7 +42,7 @@ Você pode visualizar o projeto online através [desse link](https://raflix-puce
  
 Para iniciá-lo, siga os passos abaixo:
 # Instalar as dependências
-$ npm install
+$ yarn
 
 # Iniciar o projeto
 $ yarn start
